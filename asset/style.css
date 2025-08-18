@@ -1000,17 +1000,7 @@ background-image: url(img/banner/b16.jpg);
 #form-details .people span{
   margin: 0;
 }
-/* cart section*/
-#cart-add{
-flex-direction: column;
-}
-.coupon{
-  width: 100%;
-}
-.total{
-  width: 100%;
-  padding: 30px;
-}
+
 /* other */
 #title{
   display: none;
