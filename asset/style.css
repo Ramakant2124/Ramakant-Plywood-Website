@@ -903,7 +903,7 @@ background-image: url(img/banner/b16.jpg);
 }
 
 /*  Media Query For Mobile*/
-@media (max-width: 477px) {
+@media (max-width: 677px) {
   #header {
     padding: 10px 30px;
   }
